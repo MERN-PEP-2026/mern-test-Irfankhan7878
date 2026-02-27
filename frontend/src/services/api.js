@@ -1,4 +1,3 @@
-// API service for backend integration
 import axios from 'axios';
 
 const API = axios.create({

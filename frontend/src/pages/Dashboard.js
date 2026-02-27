@@ -1,6 +1,3 @@
-// Dashboard page UI will be implemented here
-
-
 import { useState } from 'react';
 
 function Dashboard() {
